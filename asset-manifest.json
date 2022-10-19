@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e16273a.chunk.css",
+    "main.js": "/static/js/main.08ae19cf.chunk.js",
+    "main.js.map": "/static/js/main.08ae19cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4dadf908.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4dadf908.js.map",
+    "static/css/2.b3df43ff.chunk.css": "/static/css/2.b3df43ff.chunk.css",
+    "static/js/2.5d135ff8.chunk.js": "/static/js/2.5d135ff8.chunk.js",
+    "static/js/2.5d135ff8.chunk.js.map": "/static/js/2.5d135ff8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b3df43ff.chunk.css.map": "/static/css/2.b3df43ff.chunk.css.map",
+    "static/css/main.5e16273a.chunk.css.map": "/static/css/main.5e16273a.chunk.css.map",
+    "static/js/2.5d135ff8.chunk.js.LICENSE.txt": "/static/js/2.5d135ff8.chunk.js.LICENSE.txt",
+    "static/media/kids-learning.fcd258b6.png": "/static/media/kids-learning.fcd258b6.png",
+    "static/media/remixicon.css": "/static/media/remixicon.f2616f59.ttf",
+    "static/media/seo.b323da63.png": "/static/media/seo.b323da63.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/ui-ux.0366b465.png": "/static/media/ui-ux.0366b465.png",
+    "static/media/web-development.91ce5338.png": "/static/media/web-development.91ce5338.png",
+    "static/media/why-choose-us.5ec7e3b2.png": "/static/media/why-choose-us.5ec7e3b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dadf908.js",
+    "static/css/2.b3df43ff.chunk.css",
+    "static/js/2.5d135ff8.chunk.js",
+    "static/css/main.5e16273a.chunk.css",
+    "static/js/main.08ae19cf.chunk.js"
+  ]
+}
